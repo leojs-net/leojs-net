@@ -26,10 +26,5 @@ Se você estiver precisando desenvolver algum projeto, fique à vontade para [en
 
 Apaixonado por tecnologia e desenvolvimento, estou sempre pronto para novos desafios e oportunidades de aprendizado. 👊
 
-![Leojs GitHub Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leojs-net)
-
-![Leojs GitHub stats](https://github-readme-stats.vercel.app/api?username=leojs-net&show_icons=true&theme=dracula)
-
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leojs-net&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leojs-net&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leojs-net&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leojs-net&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
