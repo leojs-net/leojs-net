@@ -10,9 +10,9 @@ Meu primeiro contato com um computador foi em 2003, aos 18 anos, e acredite ou n
 
 ## Minha Jornada 🚀
 
-:walking: - Em 2007, criei meu primeiro "sistema" no Microsoft Access.
-:zap:     - Em 2013, construí meu primeiro sistema com .NET Framework 3.5.
-:runner:  - De lá pra cá, não parei mais de programar ...
+:walking: - Em 2007, criei meu primeiro "sistema" no Microsoft Access. <br>
+:zap:     - Em 2013, construí meu primeiro sistema com .NET Framework 3.5. <br>
+:runner:  - De lá pra cá, não parei mais de programar ... <br>
 
 ## O Que Estou Fazendo Agora
 
