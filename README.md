@@ -1,4 +1,7 @@
-# Sobre Mim 
+# Sobre Mim 👨
+
+![Static Badge](https://img.shields.io/badge/-LinkedIn-6362DD?style=flat-square&logo=Linkedin&logoColor=fff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fleomirsantos)
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)
 [![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://fernandakipper.com/)
@@ -10,7 +13,7 @@ Meu primeiro contato com um computador foi em 2003, aos 18 anos, e acredite ou n
 
 ## Minha Jornada 🚀
 
-:walking: - Em 2007, criei meu primeiro "sistema" no Microsoft Access. <br>
+🚶 - Em 2007, criei meu primeiro "sistema" no Microsoft Access. <br>
 :zap: - Em 2013, construí meu primeiro sistema com .NET Framework 3.5. <br>
 :runner: - De lá pra cá, não parei mais de programar ... <br>
 
@@ -22,12 +25,6 @@ Atualmente, minhas principais ocupações incluem:
 :fire:    - Construir a **Automatizei**, uma plataforma para auxiliar empresas na automação de processos de negócios uma maneira padronizada.
 :wrench:  - Atuar como programador freelancer.
 
-Se você estiver precisando desenvolver algum projeto, fique à vontade para [entrar em contato](mailto:seuemail@exemplo.com). 📧
+Se você estiver precisando desenvolver algum projeto, fique à vontade para [entrar em contato](mailto:leojs.net@gmail.com). 📧
 
 Apaixonado por tecnologia e desenvolvimento, estou sempre pronto para novos desafios e oportunidades de aprendizado. 👊
-
-<div align="left">
-  
-  [![Leojs top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leojs-net&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
