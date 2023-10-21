@@ -26,6 +26,6 @@ Se você estiver precisando desenvolver algum projeto, fique à vontade para [en
 
 Apaixonado por tecnologia e desenvolvimento, estou sempre pronto para novos desafios e oportunidades de aprendizado. 👊
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leojs-net&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+![Leojs GitHub Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leojs-net)
 
-![Leojs GitHub stats](https://github-readme-stats.vercel.app/api?username=leojs-neta&show_icons=true&theme=dracula)
+![Leojs GitHub stats](https://github-readme-stats.vercel.app/api?username=leojs-net&show_icons=true&theme=dracula)
