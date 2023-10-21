@@ -1,10 +1,8 @@
 # Sobre Mim 👨
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6362DD?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/leomirsantos/)](https://www.linkedin.com/in/leomirsantos/)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)
-[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://fernandakipper.com/)
-[![Gmail Badge](https://img.shields.io/badge/-nanda.kipper@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nanda.kipper@gmail.com)](mailto:nanda.kipper@gmail.com)
+[![Static Badge](https://img.shields.io/badge/-LinkedIn-6362DD?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/leomirsantos/)](https://www.linkedin.com/in/leomirsantos/)
+[![Static Badge](https://img.shields.io/badge/-rocketplay.io-6362DD?style=flat-square&logo=apacherocketmq&logoColor=fff&link=https://www.rocketplay.io/)](www.rocketplay.io/)
+[![Gmail Badge](https://img.shields.io/badge/-leojs.net%40gmail.com-6362DD?style=flat-square&logo=gmail&logoColor=fff&link=mailto:leojs.net@gmail.com)](mailto:leojs.net@gmail.com)
 
 Olá! Eu sou o Leo, programador .NET desde 2013. <br>
 Entusiasta de tecnologia e adepto da filosofia life-long learning (aprendizado contínuo).💪 <br>
@@ -12,9 +10,9 @@ Tive meu primeiro contato com um pc em 2003 aos 18 anos, e acredite ou não, eu 
 
 ## Minha Jornada 🚀
 
-👶 - Em 2007, criei meu primeiro "sistema" no Microsoft Access.<br> 
-👦 - Em 2013, construí meu primeiro sistema com .NET Framework 3.5.<br>  
-👨 - De lá pra cá, eu não parei mais ... 
+👶 - Em 2007, criei meu primeiro "sistema" no Microsoft Access.<br>
+👦 - Em 2013, construí meu primeiro sistema com .NET Framework 3.5.<br>
+👨 - De lá pra cá, eu não parei mais...<br>
 
 ## O Que Estou Fazendo Agora 👀
 
