@@ -1,7 +1,6 @@
 # Sobre Mim 👨
 
-![Static Badge](https://img.shields.io/badge/-LinkedIn-6362DD?style=flat-square&logo=Linkedin&logoColor=fff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fleomirsantos)
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6362DD?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/leomirsantos/)](https://www.linkedin.com/in/leomirsantos/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)
 [![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://fernandakipper.com/)
