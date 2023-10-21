@@ -28,4 +28,4 @@ Apaixonado por tecnologia e desenvolvimento, estou sempre pronto para novos desa
 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leojs-net&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![Leojs GitHub stats](https://github-readme-stats.vercel.app/api?username=leojs-neta&show_icons=true&theme=dracula)
