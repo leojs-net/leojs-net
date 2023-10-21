@@ -6,7 +6,7 @@
 
 Olá! Eu sou o Leo, programador .NET desde 2013. <br>
 Sou um entusiasta de tecnologia e acredito na filosofia do aprendizado contínuo (life-long learning). :muscle: <br>
-Meu primeiro contato com um computador foi em 2003, aos 18 anos, e acredite ou não, eu mal sabia como um PC funcionava naquela época :joy:. <br>
+Meu primeiro contato com um computador foi em 2003, aos 18 anos, e acredite ou não, eu mal sabia como um PC funcionava :joy:. <br>
 
 ## Minha Jornada 🚀
 
