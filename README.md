@@ -4,9 +4,9 @@
 [![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://fernandakipper.com/)
 [![Gmail Badge](https://img.shields.io/badge/-nanda.kipper@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nanda.kipper@gmail.com)](mailto:nanda.kipper@gmail.com)
 
-Olá! Eu sou o Leo, um programador .NET desde 2013. 
-Sou um entusiasta de tecnologia e acredito na filosofia do aprendizado contínuo (life-long learning). :muscle:
-Meu primeiro contato com um computador foi em 2003, aos 18 anos, e, acredite ou não, eu mal sabia como um PC funcionava naquela época (risos).
+Olá! Eu sou o Leo, programador .NET desde 2013. <br>
+Sou um entusiasta de tecnologia e acredito na filosofia do aprendizado contínuo (life-long learning). :muscle: <br>
+Meu primeiro contato com um computador foi em 2003, aos 18 anos, e, acredite ou não, eu mal sabia como um PC funcionava naquela época (risos). <br>
 
 ## Minha Jornada
 
@@ -27,7 +27,5 @@ Se você estiver precisando desenvolver algum projeto, fique à vontade para [en
 Apaixonado por tecnologia e desenvolvimento, estou sempre pronto para novos desafios e oportunidades de aprendizado. 👨‍💻
 
 <div align="left">
-  
-[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Kipper&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
-  
- </div>
+  [![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Kipper&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+</div>
