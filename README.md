@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-nanda.kipper@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nanda.kipper@gmail.com)](mailto:nanda.kipper@gmail.com)
 
 Olá! Eu sou o Leo, programador .NET desde 2013. <br>
-Sou entusiasta de tecnologia e acredito na filosofia do aprendizado contínuo (life-long learning). :muscle: <br>
+Um entusiasta de tecnologia e adepto da filosofia life-long learning (aprendizado contínuo). :muscle: <br>
 Meu primeiro contato com um computador foi em 2003, aos 18 anos, e acredite ou não, eu mal sabia como um PC funcionava :joy:. <br>
 
 ## Minha Jornada 🚀
