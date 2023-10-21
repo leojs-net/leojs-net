@@ -26,4 +26,4 @@ Se você estiver precisando desenvolver algum projeto, fique à vontade para [en
 
 Apaixonado por tecnologia e desenvolvimento, estou sempre pronto para novos desafios e oportunidades de aprendizado. 👊
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leojs-net&theme=dracula)]
+https://github-readme-stats.vercel.app/api/top-langs/?username=leojs-net&theme=dracula
