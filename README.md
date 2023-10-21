@@ -9,7 +9,7 @@ Entusiasta de tecnologia e adepto da filosofia life-long learning (aprendizado c
 Tive meu primeiro contato com um pc em 2003 aos 18 anos, e acredite ou não, eu mal sabia como funcionava um cumputador. 😂<br>
 
 ## Minha Jornada 🚀
-(aspnet mvc | razor pages | blazor  | winforms | wpf | winui3 | maui | ef | HTML | CSS | Javascript | SQL ) 
+(aspnet mvc | razor pages | blazor  | winforms | wpf | winui3 | maui | EF | HTML | CSS | Javascript | SQL ) 
 
 👶 - Em 2007, criei meu primeiro "sistema" no Microsoft Access.<br>
 👦 - Em 2013, construí meu primeiro sistema com .NET Framework 3.5.<br>
