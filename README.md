@@ -11,16 +11,16 @@ Meu primeiro contato com um computador foi em 2003, aos 18 anos, e acredite ou n
 ## Minha Jornada 🚀
 
 :walking: - Em 2007, criei meu primeiro "sistema" no Microsoft Access. <br>
-:zap:     - Em 2013, construí meu primeiro sistema com .NET Framework 3.5. <br>
-:runner:  - De lá pra cá, não parei mais de programar ... <br>
+:zap: - Em 2013, construí meu primeiro sistema com .NET Framework 3.5. <br>
+:runner: - De lá pra cá, não parei mais de programar ... <br>
 
 ## O Que Estou Fazendo Agora
 
 Atualmente, minhas principais ocupações incluem:
 
 :pencil2: - Escrever conteúdo técnico para a plataforma .NET no site [RocketPlay](https://www.rocketplay.com.br).
-:fire:    - Estou contruindo a **Automatizei**, uma plataforma que auxilia empresas na automação de processos de negócios uma maneira padronizada.
-:wrench:  - Também atuo como programador freelancer.
+:fire:    - Construir a **Automatizei**, uma plataforma para auxiliar empresas na automação de processos de negócios uma maneira padronizada.
+:wrench:  - Atuar como programador freelancer.
 
 Se você estiver precisando desenvolver algum projeto, fique à vontade para [entrar em contato](mailto:seuemail@exemplo.com). 📧
 
