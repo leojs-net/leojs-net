@@ -25,3 +25,5 @@ Atualmente, minhas principais ocupações incluem:
 Se você estiver precisando desenvolver algum projeto, fique à vontade para [entrar em contato](mailto:leojs.net@gmail.com). 📧
 
 Apaixonado por tecnologia e desenvolvimento, estou sempre pronto para novos desafios e oportunidades de aprendizado. 👊
+
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leojs-net&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
