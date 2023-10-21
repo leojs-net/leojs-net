@@ -15,8 +15,6 @@ Atualmente, minhas principais ocupações incluem:
 2. Estou desenvolvendo a **Automatizei**, uma plataforma que auxilia empresas na automação de processos de negócios de forma mais padronizada.
 3. Atuo como programador freelancer.
 
-Se você estiver precisando desenvolver algum projeto, fique à vontade para [entrar em contato](mailto:seuemail@exemplo.com).
+Se você estiver precisando desenvolver algum projeto, fique à vontade para [entrar em contato](mailto:seuemail@exemplo.com). 🚀
 
-Apaixonado por tecnologia e desenvolvimento, estou sempre pronto para novos desafios e oportunidades de aprendizado.
-
-
+Apaixonado por tecnologia e desenvolvimento, estou sempre pronto para novos desafios e oportunidades de aprendizado. 👨‍💻
