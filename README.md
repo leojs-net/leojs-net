@@ -19,7 +19,7 @@ Tive meu primeiro contato com um pc em 2003 aos 18 anos, e acredite ou não, eu 
 
 Atualmente, minhas principais ocupações são:
 
-📰 - Estou escrevendo conteúdo técnico para a plataforma .NET no site [RocketPlay](https://www.rocketplay.com.br).<br> (Quem ensina, aprende 2x)
+📰 - Estou escrevendo conteúdo técnico para a plataforma .NET no site [RocketPlay](https://www.rocketplay.com.br).(Quem ensina, aprende 2x)<br>
 ➕ - Construindo a **Automatizei**, uma plataforma para auxiliar empresas na automação de processos de negócios.<br>
 🚧 - Atuando como programador freelancer.<br>
 
