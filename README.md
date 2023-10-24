@@ -17,11 +17,11 @@ Tive meu primeiro contato com um pc em 2003 aos 18 anos, e acredite ou não, eu 
 
 ## O Que Estou Fazendo Agora 👀
 
-Atualmente, minhas principais ocupações incluem:
+Atualmente, minhas principais ocupações são:
 
-📰 - Escrever conteúdo técnico para a plataforma .NET no site [RocketPlay](https://www.rocketplay.com.br).<br>
-➕ - Construir a **Automatizei**, uma plataforma para auxiliar empresas na automação de processos de negócios.<br>
-🚧 - Atuar como programador freelancer.<br>
+📰 - Estou escrevendo conteúdo técnico para a plataforma .NET no site [RocketPlay](https://www.rocketplay.com.br).<br> (Quem ensina, aprende 2x)
+➕ - Construindo a **Automatizei**, uma plataforma para auxiliar empresas na automação de processos de negócios.<br>
+🚧 - Atuando como programador freelancer.<br>
 
 Se você estiver precisando desenvolver algum projeto, fique à vontade para [entrar em contato](mailto:leojs.net@gmail.com). 📧
 
