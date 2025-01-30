@@ -1,7 +1,6 @@
 # Sobre Mim 👨
 
 [![Badge Linkedin](https://img.shields.io/badge/-LinkedIn-6362DD?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/leomirsantos/)](https://www.linkedin.com/in/leomirsantos/)
-[![Badge Site](https://img.shields.io/badge/-rocketplay.io-6362DD?style=flat-square&logo=apacherocketmq&logoColor=fff&link=https://rocketplay.io/)](https://rocketplay.io/)
 [![Badge Gmail](https://img.shields.io/badge/-leojs.net%40gmail.com-6362DD?style=flat-square&logo=gmail&logoColor=fff&link=mailto:leojs.net@gmail.com)](mailto:leojs.net@gmail.com)
 
 Olá! Eu sou o Leo, programador .NET desde 2013. <br>
